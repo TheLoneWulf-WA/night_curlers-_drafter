@@ -1,0 +1,6 @@
+{
+  "name": "Night Curlers Team Drafter",
+  "description": "Turns pasted WhatsApp rosters into evenly-positioned football teams and exports the result as an image.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,50 @@
+export const SAMPLE_ROSTER = `📢 NIGHT CURLERS FC WEEKLY PAYMENT
+All weekly contributions can now be paid through Monime.
+Just dial: *715*902#
+Contact '+23276860788' if you have any challenge.
+
+Saturday Night (Le 3,500 budget)
+1. Alvin (M)
+2. Malo (F)
+3. Siru (F)
+4. Sow (M)
+5. Regi (F)
+6. Manika (M)
+7. Jay Dee (D)
+8. Henry (D)
+9. Skinny (M)
+10. Glennard (D)
+11. Ahmed (D)
+12. Papay na Star (F)
+13. Sal (M)
+14. Suma (F)
+15. Luski (F)
+16. Alex Young (M)
+17. Saidu Kroos (M)
+18. Happy Ben (M)
+19. Phyno (D) - 200
+20. Kolleh (M)
+21. MKD (F)
+22. Agogo (F)
+23. Joshua (F)
+24. Vinco (M)
+25. Aliko (D)
+26. Banku (F)
+27. Ing Dauda (F)
+28. OG LAJ (M)
+29. Theodore (F)
+30. Ing Ansu (D)
+31. Ked (M)
+32. Barrie (M)
+33. Malik (F)
+34. Yung Sal (D)
+35. Lakes (D)
+36. Gunna (M)
+37. Chericoco (D)
+38. Mamoud (D)
+39. ICE (M)
+40. Mhed (F)
+
+Subs
+1. Dyte (F)
+2. Minamino (F)`;
